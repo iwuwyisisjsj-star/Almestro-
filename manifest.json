@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "إدارة محل الهواتف",
+  "short_name": "محل الهواتف",
+  "lang": "ar",
+  "dir": "rtl",
+  "description": "إدارة صيانة ومبيعات ومخزون محل الهواتف",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#145da0",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
